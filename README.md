@@ -5,15 +5,13 @@ minimal game library & launcher compatible with multiple sources and some other 
 <img src="screenshot.png"></img>
 > nichroma is a spiritual successor of [cheep](https://github.com/LuanderFarias/Cheep)
 
-nichroma is a simple to use and minimal game library and launcher that includes all your games in one place using a well made backend instead of spending hours dealing with configurations and etc. made to be customizable and fully extendable by the community.
+nichroma is a simple to use and minimal game library and launcher that includes all your games in one place using a well made backend instead of spending hours dealing with configurations and etc. made to be customizable and fully extendable by the community. you can suggest functions and sources opening an [issue](https://github.com/LuanderFarias/nichroma/issues/new).
 
 ~ supported stores
 | platform | state |
 | :-------- | :------------------------- |
 | steam |  under development. |
 | epicgames | next on roadmap. |
-| .exe/.deb | planned. |
-| hydra | planned. |
 | gog | planned. |
 
 ~ supported emulators
@@ -37,6 +35,11 @@ nichroma is a simple to use and minimal game library and launcher that includes 
 | lime3ds | planned. |
 | mgba | planned. |
 | rmg | planned. |
-> you can suggest functions and sources opening an [issue](https://github.com/LuanderFarias/nichroma/issues/new)
+
+~ other supported sources
+| platform | state |
+| :-------- | :------------------------- |
+| .exe/.deb | planned. |
+| hydra | planned. |
 
 create stuff.
