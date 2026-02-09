@@ -7,7 +7,7 @@ minimal game library & launcher compatible with multiple sources and some other 
 
 nichroma is a simple to use and minimal game library and launcher that includes all your games in one place using a well made backend instead of spending hours dealing with configurations and etc. made to be customizable and fully extendable by the community. you can suggest functions and sources opening an [issue](https://github.com/LuanderFarias/nichroma/issues/new).
 
-~ supported stores
+~ supported storefronts
 | platform | state |
 | :-------- | :------------------------- |
 | steam |  under development, [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) & [depotdownlaoder](https://github.com/SteamRE/DepotDownloader) based. |
@@ -41,7 +41,7 @@ nichroma is a simple to use and minimal game library and launcher that includes 
 ~ other supported sources
 | platform | state |
 | :-------- | :------------------------- |
-| .exe/.deb | planned. |
+| .exe/.deb | done. |
 | hydra | planned. |
 
 ~ manual-usage
