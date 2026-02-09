@@ -10,9 +10,10 @@ nichroma is a simple to use and minimal game library and launcher that includes 
 ~ supported stores
 | platform | state |
 | :-------- | :------------------------- |
-| steam |  under development. |
-| epicgames | next on roadmap. |
-| gog | planned. |
+| steam |  under development, [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) & [depotdownlaoder](https://github.com/SteamRE/DepotDownloader) based. |
+| epicgames | next on roadmap, [legendary](https://github.com/derrod/legendary) based. |
+| amazon | planned, [nile](https://github.com/imLinguin/nile) based. |
+| gog | planned, [gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) based. |
 
 ~ supported emulators
 | emulator | state |
