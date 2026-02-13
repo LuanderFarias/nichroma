@@ -48,7 +48,7 @@ nichroma is a simple to use and minimal game library manager & launcher that inc
 
 ~ plugins
 
-plugins are a huge part of nichroma, they're made by the community and/or by our team to extend nichroma functionalities and make your overall experience better.
+plugins are a huge part of nichroma, they're made by the community and/or our team to extend nichroma functionalities and make your overall experience better.
 | plugin | description | author |
 | :-------- | :-------- | :-------- |
 | keyboard | makes your keyboard sound like a mechanical keyboard. | nichroma |
