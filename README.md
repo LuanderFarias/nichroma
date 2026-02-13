@@ -45,23 +45,4 @@ nichroma is a simple to use and minimal game library manager & launcher that inc
 | .exe/.deb | done. |
 | hydra | planned. |
 
-~ manual-usage
-1. clone repo
-    ```
-    git clone https://github.com/luanderfarias/nichroma
-    ```
-2. unzip
-3. compile
-
-    | os | command |
-    | :--------------- | :------------------------- |
-    | windows | ```not ready yet``` |
-    | mac-os | ```not ready yet``` |
-    | linux | ```not ready yet``` |
-    > you might need to install the following dependencies: ```not ready yet``` depending on your linux distro
-4. Run
-    ```
-    not ready yet
-    ```
-
 create stuff.
