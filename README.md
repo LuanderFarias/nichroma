@@ -2,8 +2,8 @@
 
 minimal game library manager & launcher compatible with multiple sources and some other fun stuff.
 
-<img src="/.github/desktop-screenshot.png"></img>
-<img src="/.github/big-picture-screenshot.png"></img>
+<img src="/.github/desktop.png"></img>
+<img src="/.github/bigpicture.png"></img>
 > this concepts do not represent the final design of the application and are prone to changes
 
 > nichroma is a spiritual successor of [cheep](https://github.com/LuanderFarias/Cheep)
