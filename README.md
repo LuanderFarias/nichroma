@@ -1,6 +1,6 @@
 ~ nichroma [in development]
 
-minimal game library manager/launcher & discovery hub compatible with multiple sources and some other fun stuff.
+minimal game library manager & launcher compatible with multiple sources and some other fun stuff.
 
 <img src="screenshot.png"></img>
 > nichroma is a spiritual successor of [cheep](https://github.com/LuanderFarias/Cheep)
