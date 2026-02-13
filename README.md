@@ -5,7 +5,7 @@ minimal game library manager/launcher & discovery hub compatible with multiple s
 <img src="screenshot.png"></img>
 > nichroma is a spiritual successor of [cheep](https://github.com/LuanderFarias/Cheep)
 
-nichroma is a simple to use and minimal game library manager/launcher and discovery hub that includes all your games in one place using a well made backend instead of spending hours dealing with configurations and etc. made to be customizable and fully extendable by the community. you can suggest functions and sources opening an [issue](https://github.com/LuanderFarias/nichroma/issues/new).
+nichroma is a simple to use and minimal game library manager & launcher that includes all your games in one place using a well made backend instead of spending hours dealing with configurations and etc. made to be customizable and fully extendable by the community. you can suggest functions, plugins and sources opening an [issue](https://github.com/LuanderFarias/nichroma/issues/new).
 
 ~ supported storefronts
 | platform | state |
