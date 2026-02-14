@@ -12,7 +12,7 @@
     ```
     git clone https://github.com/luanderfarias/nichroma
     ```
-2. unzip and cd to main
+2. unzip and cd to /nichromium
 3. install neu
     ```
     npm install -g @neutralinojs/neu
