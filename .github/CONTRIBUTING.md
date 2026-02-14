@@ -17,7 +17,7 @@
     ```
     npm install -g @neutralinojs/neu
     ```
-    > you might need to install the following dependencies: ```not ready yet``` depending on your linux distro
+    > you might encounter errors while running cli commands, if that happens please refer to the [neutralinojs docs](https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app)
 4. Run
     ```
     neu run
