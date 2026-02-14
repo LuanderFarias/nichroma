@@ -7,21 +7,25 @@
 3. open your pr: keep it focused and small with clear summaries.
 4. include visuals: add screenshots or videos.
 
-~ getting started
+~ development
 1. clone repo
     ```
     git clone https://github.com/luanderfarias/nichroma
     ```
-2. unzip
-3. compile
-
-    | os | command |
-    | :--------------- | :------------------------- |
-    | windows | ```not ready yet``` |
-    | mac-os | ```not ready yet``` |
-    | linux | ```not ready yet``` |
+2. unzip and cd to main
+3. install neu
+    ```
+    npm install -g @neutralinojs/neu
+    ```
     > you might need to install the following dependencies: ```not ready yet``` depending on your linux distro
 4. Run
     ```
-    not ready yet
+    neu run
+    ```
+
+~ building
+1. cd to main
+2. build
+    ```
+    neu build --release
     ```
