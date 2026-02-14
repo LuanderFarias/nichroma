@@ -17,7 +17,7 @@
     ```
     npm install -g @neutralinojs/neu
     ```
-    > you might encounter errors while running cli commands, if that happens please refer to the [neutralinojs docs](https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app)
+    > you might encounter errors while running cli commands on powershell, if that happens please refer to the [neutralinojs documentation](https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app)
 4. Run
     ```
     neu run
