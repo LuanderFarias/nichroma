@@ -51,7 +51,7 @@ nichroma is a simple to use, minimal game library manager & launcher that includ
 plugins are a huge part of nichroma, they're made by the community and/or our team to extend nichroma functionalities and make your overall experience better.
 | plugin | description | author |
 | :-------- | :-------- | :-------- |
-| keyboard | makes your keyboard sound like a mechanical keyboard. | nichroma |
+| mech-board | makes your keyboard sound like a mechanical keyboard. | nichroma |
 | screen-recorder | record your screen with a minimal overlay. | nichroma |
 
 create stuff.
