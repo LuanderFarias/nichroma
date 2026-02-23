@@ -55,6 +55,7 @@ plugins are a huge part of nichroma, they're made by the community and/or our te
 | :-------- | :-------- | :-------- |
 | mech-typing | makes your keyboard sound like a mechanical keyboard. | nichroma |
 | screen-recorder | record your screen with a minimal overlay. | nichroma |
+| its-free | warn you about free games on supported stores. | nichroma |
 
 ~ acknowledgments
 - [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) - steam games integration
