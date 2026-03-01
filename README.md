@@ -1,6 +1,6 @@
 ~ nichroma [in development]
 
-minimal game library manager & launcher compatible with multiple sources and some other fun stuff.
+minimal game library manager & launcher compatible with multiple sources and community made stuff.
 
 <img src="/.github/desktop.png"></img>
 <img src="/.github/bigpicture.png"></img>
