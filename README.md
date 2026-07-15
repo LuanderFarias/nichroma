@@ -51,11 +51,18 @@ we're also planning on an integration with fex, proton, dxvk/vkd3D, and others f
 ~ plugins
 
 plugins are a huge part of nichroma, they're made by the community and/or our team to extend nichroma functionalities and make your overall experience better.
-| plugin | description | author |
+| plugin | description | authors |
 | :-------- | :-------- | :-------- |
-| mech-typing | makes your keyboard sound like a mechanical keyboard. | nichroma |
-| screen-recorder | record your screen with a minimal ui and overlay. | nichroma |
-| freeplay | warn you about free games on supported stores. | nichroma |
+| mech-typing | makes your keyboard sound like a mechanical keyboard. | nichroma-team |
+| screen-recorder | record your screen with a minimal ui and overlay. | nichroma-team |
+| freeplay | warn you about free games on supported stores. | nichroma team |
+
+~ plugins
+
+plugins are a huge part of nichroma, they're made by the community and/or our team to extend nichroma functionalities and make your overall experience better.
+| theme | screenshot | authors |
+| :-------- | :-------- | :-------- |
+| chromastation2<br/><br/>a playstation 2 inspired theme | <img src="/themes/nichroma/chromastation2/screenshot.png"></img> | nikollesan<br/>nichroma-team |
 
 ~ acknowledgments
 - [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) - steam games integration
