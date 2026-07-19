@@ -8,7 +8,7 @@ minimal game library manager & launcher compatible with multiple sources and com
 
 nichroma is a simple to use, minimal game library manager & launcher that includes all your games in one place using a backend to automate your library management instead of spending hours in configurations, downloading and managing many emulators, manualy removing uninstalled games, etc. easy, local-first, customizable and fully extendable by the community. you can suggest functions, plugins and sources opening an [issue](https://github.com/LuanderFarias/nichroma/issues/new).
 
-we're also planning on an integration with fex, proton, dxvk/vkd3D, and others for a possible android version, if you have experience with these type of integration please enter in contact through [discord]()
+we're also planning on an integration with fex, proton, dxvk/vkd3D, and others for a possible android version, if you have experience with these type of integration please enter in contact through [discord](https://discord.gg/VRBVsjJ7NQ).
 
 ~ supported storefronts
 | platform | state |
