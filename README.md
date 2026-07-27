@@ -20,7 +20,6 @@ we're also planning integrations with fex, proton, dxvk/vkd3D, and others for a 
 | amazon | planned. |
 | itch.io | planned. |
 | gog | planned. |
-> **this project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the companies and products mentioned in this repository, or any of their subsidiaries or affiliates. all product names, logos, brands, trademarks, and registered trademarks are the property of their respective owners. Their use does not imply any affiliation with or endorsement by them.**
 
 ~ supported emulators
 | emulator | state |
@@ -43,8 +42,6 @@ we're also planning integrations with fex, proton, dxvk/vkd3D, and others for a 
 | lime3ds | planned. |
 | mgba | planned. |
 | rmg | planned. |
-
-> **emulator integrations are intended for legally obtained games and software. nichroma does not provide bios files, game roms, firmware, or copyrighted content.**
 
 ~ third-party sources
 | platform | state |
@@ -77,6 +74,7 @@ we want your library to look like an extension of you, you can find themes in th
 - [screenscraper.fr](https://www.screenscraper.fr/) - game/rom metadata
 - [steamgriddb](https://www.steamgriddb.com/) - game artwork
 
-> Users are responsible for complying with the licenses and terms of service of any third-party software or services they choose to use with nichroma.
+~ legal notice
+> **nichroma is an independent open-source project and is not affiliated with, associated with, authorized by, endorsed by, or officially connected to any company, product, or service mentioned in this repository. all trademarks, logos, brands, and registered trademarks are the property of their respective owners and are used only for identification and compatibility purposes.<br/><br/>emulator integrations are intended for legally obtained games and software. nichroma does not provide bios files, game roms, firmware, or any copyrighted content. users are solely responsible for complying with applicable laws, software licenses, and the terms of service of any third-party software or services they choose to use with nichroma.**
 
 create stuff.
