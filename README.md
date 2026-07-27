@@ -64,7 +64,7 @@ we want your library to look like an extension of you, you can find themes in th
 | theme | screenshot | authors |
 | :-------- | :-------- | :-------- |
 | chromastation2<br/><br/>a playstation 2 inspired theme | <img src="/themes/nichroma/chromastation2/screenshot.png"></img> | nikollesan<br/>nichroma-team |
-| nichroma<br/><br/>a playstation 2 inspired theme | <img src="/themes/nichroma/chromastation2/screenshot.png"></img> | nikollesan<br/>nichroma-team |
+| 360x<br/><br/>a xbox 360 inspired theme | <img src="/themes/nichroma/360x/screenshot.png"></img> | nikollesan<br/>nichroma-team |
 
 ~ acknowledgments
 - [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) - steam games integration
