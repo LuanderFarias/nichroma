@@ -66,13 +66,16 @@ we want your library to look like an extension of you, you can find themes in th
 | 360x<br/><br/>a xbox 360 inspired theme | <img src="/themes/nichroma/360x/screenshot.png"></img> | nikollesan<br/>nichroma-team |
 
 ~ acknowledgments
-- [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) - steam games integration
-- [legendary](https://github.com/derrod/legendary) - epic games integration
-- [nile](https://github.com/imLinguin/nile) - amazon games integration
-- [butler](https://github.com/itchio/butler) - itch.io integration
-- [gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - gog integration
-- [screenscraper.fr](https://www.screenscraper.fr/) - game/rom metadata
-- [steamgriddb](https://www.steamgriddb.com/) - game artwork
+| project | type | current use |
+| :------ | :--- | :---------- | 
+| [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) | integration | extract steam metadata, artworks and paths |
+| [legendary](https://github.com/derrod/legendary) | integration | extract epic games metadata, artworks and paths |
+| [nile](https://github.com/imLinguin/nile) | integration | extract amazon games metadata, artworks and paths |
+| [butler](https://github.com/itchio/butler) | integration | extracts itch.io metadata, artworks and paths |
+| [gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) | integration | extract gog metadata, artworks and paths |
+| [screenscraper.fr](https://www.screenscraper.fr/) | scraper | provides game/rom metadata and artworks |
+| [steamgriddb](https://www.steamgriddb.com/) | scraper | provides game/rom metadata and artworks |
+| [socket](https://depmots.com/socket) | inspiration | Inspired the UI on TV mode |
 
 ~ legal notice
 > **nichroma is an independent open-source project and is not affiliated with, associated with, authorized by, endorsed by, or officially connected to any company, product, or service mentioned in this repository. all trademarks, logos, brands, and registered trademarks are the property of their respective owners and are used only for identification and compatibility purposes.<br/><br/>emulator integrations are intended for legally obtained games and software. nichroma does not provide bios files, game roms, firmware, or any copyrighted content. users are solely responsible for complying with applicable laws, software licenses, and the terms of service of any third-party software or services they choose to use with nichroma.**
