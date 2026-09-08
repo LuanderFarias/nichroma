@@ -75,7 +75,7 @@ we want your library to look like an extension of you, you can find themes in th
 | [gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) | integration | extract gog metadata, artworks and paths |
 | [screenscraper.fr](https://www.screenscraper.fr/) | scraper | provides game/rom metadata and artworks |
 | [steamgriddb](https://www.steamgriddb.com/) | scraper | provides game/rom metadata and artworks |
-| [socket](https://depmots.com/socket) | inspiration | Inspired the UI on TV mode |
+| [socket](https://depmots.com/socket) | inspiration | Inspired the ui on couch mode |
 
 ~ legal notice
 > **nichroma is an independent open-source project and is not affiliated with, associated with, authorized by, endorsed by, or officially connected to any company, product, or service mentioned in this repository. all trademarks, logos, brands, and registered trademarks are the property of their respective owners and are used only for identification and compatibility purposes.<br/><br/>emulator integrations are intended for legally obtained games and software. nichroma does not provide bios files, game roms, firmware, or any copyrighted content. users are solely responsible for complying with applicable laws, software licenses, and the terms of service of any third-party software or services they choose to use with nichroma.**
